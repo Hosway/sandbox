@@ -8,3 +8,8 @@ body {
   text-align: center; 
   background: #f1f1f1;
 }
+
+.services h1 {
+  display: inline-block;
+  border-bottom: 6px solid #3c7ad8e8;
+}
